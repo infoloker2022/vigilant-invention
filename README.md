@@ -35,7 +35,7 @@
 	<wp:base_site_url>http://infolokerperawat2022.ezyro.com</wp:base_site_url>
 	<wp:base_blog_url>http://infolokerperawat2022.ezyro.com</wp:base_blog_url>
 
-		<wp:author><wp:author_id>1</wp:author_id><wp:author_login><![CDATA[infolokerperawat2022]]></wp:author_login><wp:author_email><![CDATA[wtfitshacking@gmail.com]]></wp:author_email><wp:author_display_name><![CDATA[infolokerperawat2022]]></wp:author_display_name><wp:author_first_name><![CDATA[]]></wp:author_first_name><wp:author_last_name><![CDATA[]]></wp:author_last_name></wp:author>
+@octocat :+1: This PR looks great - it's ready to merge! :shipit		<wp:author><wp:author_id>1</wp:author_id><wp:author_login><![CDATA[infolokerperawat2022]]></wp:author_login><wp:author_email><![CDATA[wtfitshacking@gmail.com]]></wp:author_email><wp:author_display_name><![CDATA[infolokerperawat2022]]></wp:author_display_name><wp:author_first_name><![CDATA[]]></wp:author_first_name><wp:author_last_name><![CDATA[]]></wp:author_last_name></wp:author>
 
 		<wp:category>
 		<wp:term_id>1</wp:term_id>
